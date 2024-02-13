@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\Debug\Laboratorio2_Progra de Micros.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Laboratorio2_Progra de Micros.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Laboratorio2_Progra de Micros.map</FILE>
+  <FILE>Laboratorio2_Progra de Micros.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Setup><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</FILE><LINE>28</LINE></Setup>
+  <Timer0><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</FILE><LINE>101</LINE></Timer0>
+  <MAIN><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</FILE><LINE>57</LINE></MAIN>
+  <TABLA7SEG><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</FILE><LINE>174</LINE></TABLA7SEG>
+  <LOOP><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</FILE><LINE>65</LINE></LOOP>
+  <Comp><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</FILE><LINE>136</LINE></Comp>
+  <Total><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</FILE><LINE>164</LINE></Total>
+  <Reinicio><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</FILE><LINE>114</LINE></Reinicio>
+  <SUMA><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</FILE><LINE>118</LINE></SUMA>
+  <RESTA><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</FILE><LINE>127</LINE></RESTA>
+  <delay><FILE>C:\Users\Mateo\Documents\Atmel Studio\7.0\Laboratorio2_Progra de Micros\Laboratorio2_Progra de Micros\main.asm</FILE><LINE>148</LINE></delay>
+ </LABELS>
+</ASSEMBLER_INFO>
